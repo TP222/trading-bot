@@ -1,1 +1,1 @@
-# eth-org-tuto
+# node-typescript-blueprint
