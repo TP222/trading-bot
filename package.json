@@ -1,0 +1,10 @@
+{
+  "name": "eth-org-tuto",
+  "packageManager": "yarn@3.5.0",
+  "devDependencies": {
+    "typescript": "^5.0.2"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
