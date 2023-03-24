@@ -1,6 +1,10 @@
 {
   "name": "eth-org-tuto",
   "packageManager": "yarn@3.5.0",
+  "type": "module",
+  "scripts": {
+    "dev":"yarn nodemon src/index.ts"
+  },
   "devDependencies": {
     "typescript": "^5.0.2"
   },
